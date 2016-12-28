@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Meine Deutsche Bank",
-  "description": "This extension open and login at your bank account",
+  "description": "This extension login into your bank account",
   "version": "1.0",
 
   "background": {
